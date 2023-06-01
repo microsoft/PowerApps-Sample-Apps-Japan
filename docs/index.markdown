@@ -17,41 +17,74 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 また、アプリご利用の際には Standalone ライセンスが必要となります。
 
 # 公開アプリ一覧
-| アプリ名   | ステータス | 公開URL   |
-| :------- | :-----: | :-------: |
-| 社内システムポータル    | 準備中   |   －  |
-| ChatGPT アプリ    | 準備中   |   －  |
-| タイムカード    | 準備中   |   －  |
-| Q&A アプリ    | 準備中   |   －  |
-| 社内用語集    | 準備中   |   －  |
-| 総務アプリパック    | 準備中   |   －  |
-| 人材検索    | 準備中   |   －  |
-| 日報・週報アプリ with GPT    | 準備中   |   －  |
-| ヒヤリハットアプリ with GPT    | 準備中   |   －  |
-| 投票アプリ    | 準備中   |   －  |
-| 書籍貸出    | 準備中   |   －  |
-
+<div style="text-align: center;">
 <table>
   <thead>
     <tr>
-      <th>列1のヘッダー</th>
-      <th>列2のヘッダー</th>
-      <th>列3のヘッダー</th>
+      <th>アプリ名</th>
+      <th>ステータス</th>
+      <th>公開URL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>セル1</td>
-      <td>セル2</td>
-      <td>セル3</td>
+      <td style="text-align: center;">社内システムポータル</td>
+      <td style="text-align: center;">準備中</td>
+      <td style="text-align: center;">－</td>
     </tr>
     <tr>
-      <td>セル4</td>
-      <td>セル5</td>
-      <td>セル6</td>
+      <td>ChatGPT アプリ</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>タイムカード</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>Q&A アプリ</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>社内用語集</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>総務アプリパック</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>人材検索</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>日報・週報アプリ with GPT</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>ヒヤリハットアプリ with GPT</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>投票アプリ</td>
+      <td>準備中</td>
+      <td>－</td>
+    </tr>
+    <tr>
+      <td>書籍貸出</td>
+      <td>準備中</td>
+      <td>－</td>
     </tr>
   </tbody>
 </table>
+</div>
 
 # 免責事項
 本アプリは日本マイクロソフトが提供する無償のサンプルであり、以下を本サンプルをご利用いただく前提とします。
