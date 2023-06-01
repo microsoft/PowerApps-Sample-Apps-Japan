@@ -4,6 +4,7 @@
 
 layout: home
 ---
+<!-- 画像の表示サンプル -->
+<!-- ![代替テキスト](https://example.com/image.jpg) -->
 
-# title タイトル
 # Power Platform プレミアムサンプル集
