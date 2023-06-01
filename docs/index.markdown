@@ -33,52 +33,52 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;">－</td>
     </tr>
     <tr>
-      <td>ChatGPT アプリ</td>
+      <td style="text-align: left;">ChatGPT アプリ</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>タイムカード</td>
+      <td style="text-align: left;">タイムカード</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>Q&A アプリ</td>
+      <td style="text-align: left;">Q&A アプリ</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>社内用語集</td>
+      <td style="text-align: left;">社内用語集</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>総務アプリパック</td>
+      <td style="text-align: left;">総務アプリパック</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>人材検索</td>
+     <td style="text-align: left;">人材検索</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>日報・週報アプリ with GPT</td>
+      <td style="text-align: left;">日報・週報アプリ with GPT</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>ヒヤリハットアプリ with GPT</td>
+      <td style="text-align: left;">ヒヤリハットアプリ with GPT</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>投票アプリ</td>
+      <td style="text-align: left;">投票アプリ</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
     <tr>
-      <td>書籍貸出</td>
+      <td style="text-align: left;">書籍貸出</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
