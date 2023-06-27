@@ -28,7 +28,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left;">社内システムポータル <BR><img src="社内システムポータル.png" width="500" height="200" ><BR>
+      <td style="text-align: left;">**社内システムポータル** <BR><img src="社内システムポータル.png" width="500" height="200" ><BR>
         社内システムやアプリ、URLを自在に設定、いいね！で人気リンクを確認！ </td>
       <td style="text-align: center;">準備中</td>
       <td style="text-align: center;">－</td>
