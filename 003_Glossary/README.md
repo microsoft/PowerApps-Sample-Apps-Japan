@@ -7,7 +7,7 @@
 <br>
 
 ## キャプチャ
-![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/%E7%A4%BE%E5%86%85%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB.png?raw=true "キャプチャ")
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/%E7%A4%BE%E5%86%85%E7%94%A8%E8%AA%9E%E6%A4%9C%E7%B4%A2.png?raw=true "キャプチャ")
 <br>
 
 ## 構成
