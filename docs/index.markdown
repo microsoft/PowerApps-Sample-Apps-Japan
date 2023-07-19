@@ -32,7 +32,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
         <BR><img src="社内システムポータル.png" width="623" height="305" ><BR>
         社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！<BR> </td>
       <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal)">アプリリンク</a></td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;">ChatGPT アプリ</td>
