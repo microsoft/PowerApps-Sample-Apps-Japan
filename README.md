@@ -1,33 +1,69 @@
-# Project
+# 投票アプリ
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+## アプリケーション概要
+投票アプリは、アイディアソンやハッカソン等の発表を評価軸毎に採点し投票することができるアプリケーションです。
+このアプリケーションを利用することで、投票とほぼリアルタイムな集計状況の把握が可能となります。
+また、同梱の管理アプリを利用することで Excel への Export や Power BI による分析を容易に実現することが可能です。
 
-As the maintainer of this project, please make a few updates:
+## キャプチャ
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/apps/010_eVotingApp/docs/eVotingSolution.png?raw=true "キャプチャ")
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## 構成
+- README.md
+- HackathonVoting_1_0_0_0.zip：アンマネージドソリューション
+- HackathonVoting_1_0_0_0_managed.zip：マネージドソリューション
+- ソリューションインポート手順書.pdf：インストール手順書
+- 投票アプリ_簡易利用手順書.pdf：簡易利用手順書
 
-## Contributing
+## 展開・利用に必要な条件
+- Power App Standalone ライセンス (開発者・利用者)
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+## 対応言語
+- 日本語
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+## 主な機能
+- 各チームの評価項目別採点と投票
+- 投票結果の集計状況把握
+- 投票結果の Excel 出力
+- Power BI による投票結果の分析
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+## アプリ利用に必要なコネクタ
+- Dataverse
+- Office 365 ユーザー
 
-## Trademarks
+## インストールに必要な権限
+- システム管理者 (セキュリティロール)
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+## インストールに必要なソリューション
+- 特になし
+
+## インストール方法
+- ソリューションインポート手順書.pdf を参照
+
+## 利用方法
+- 投票アプリ_簡易利用手順書.pdf を参照
+
+## マネージドソリューションとアンマネージドソリューション
+2 種類のソリューションを用意しています。
+インストールにはマネージドソリューションを使用することをおすすめします。アンマネージドは開発環境への展開や、追加の開発・カスタマイズを実施する環境で展開してください。
+
+## FAQ
+* Q. 内容や機能をカスタマイズすることは可能ですか？
+    * A. 可能です。カスタマイズすることを前提にシンプルで汎用的な作りになっています
+* Q. 展開パートナーはどのように見つけることができますか？
+    * A. 日本マイクロソフト営業担当者までお問い合わせください
+
+## 免責事項
+本アプリ集は日本マイクロソフトが提供する無償のサンプル群です。本アプリ集をダウンロードされた方は、以下の免責事項を承諾したものとみなされます。
+
+1. 本アプリ集 (本アプリ集に付属するドキュメント及び README に記載されている技術情報を含みます。以下、本「免責事項」において同じ) は利用者に対して「現状のまま」提供されるものです。日本マイクロソフトは、本アプリ集にプログラミング上の誤りその他の瑕疵のないこと・本アプリ集が利用者の目的に適合すること・並びに本アプリ集及びその使用が利用者または利用者以外の第三者の権利を侵害するものでないこと・その他のいかなる内容についての明示または黙示の保証を行うものではありません。
+
+1. 日本マイクロソフトは、本アプリ集の使用に起因して利用者に生じた損害または第三者からの請求に基づく利用者の損害について原因の如何を問わず一切の責任を負いません。日本マイクロソフトは、本アプリ集に関連して利用者と第三者との間に発生するいかなる紛争について一切責任を負わないものとします。本アプリ集の利用は、利用者の責任のもとで行っていただくことを前提としています。
+
+1. 日本マイクロソフトは、本アプリ集の全部または一部の提供を廃止することがあります。提供の廃止によって利用者に発生した損害について、日本マイクロソフトは一切責任を負いません。
+
+1. 日本マイクロソフトは、本アプリ集のバグ修正・補修・保守・機能追加その他のいかなる義務も負いません。本アプリ集は不定期に更新される可能性がありますが、バグ修正等が保証されているわけではありません。本アプリ集の安定した動作を確保するために、利用者自身が適切なテストや検証を行っていただくことを前提としています。
+
+1. 日本マイクロソフトは、本アプリ集に関するお問い合わせにはお答えできません。ご利用にあたっては、提供された手順書を参照の上ご自身でのインストールや利用を行っていただくことを前提としています。
+
+2023 年 7 月吉日
