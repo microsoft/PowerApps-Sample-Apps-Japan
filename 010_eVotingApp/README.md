@@ -6,7 +6,7 @@
 また、同梱の管理アプリを利用することで Excel への Export や Power BI による分析を容易に実現することが可能です。
 
 ## キャプチャ
-![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/apps/010_eVotingApp/docs/eVotingSolution.png?raw=true "キャプチャ")
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/eVotingSolution.png?raw=true "キャプチャ")
 
 ## 構成
 - README.md
