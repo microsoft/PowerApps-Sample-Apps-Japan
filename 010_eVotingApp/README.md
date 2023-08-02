@@ -15,7 +15,7 @@
 - 投票アプリ_簡易利用手順書.pdf：簡易利用手順書
 
 ## 展開・利用に必要な条件
-- Power App Standalone ライセンス (開発者・利用者)
+- Power Apps Standalone ライセンス (開発者・利用者)
 
 ## 対応言語
 - 日本語
