@@ -1,11 +1,10 @@
----
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+ ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
 <!-- 画像の表示サンプル -->
-<link rel="shortcut icon" href="favicon.ico">
-
 ![Power Platform プレミアムサンプル集](Title.png) 
 
 Power Platform による、企業で有用なアプリのサンプルを無償提供しています。
