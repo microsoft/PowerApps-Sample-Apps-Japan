@@ -4,7 +4,7 @@
 
 ---
 <!-- 画像の表示サンプル -->
-<link rel="shortcut icon" href="PPLogo.ico">
+<link rel="shortcut icon" href="favicon.ico">
 
 ![Power Platform プレミアムサンプル集](Title.png) 
 
