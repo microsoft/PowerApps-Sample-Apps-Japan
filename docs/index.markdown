@@ -22,12 +22,6 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 <a href="https://qiita.com/nayoshik/items/0890e1261b6b40b69c15">Power Platform (Power Apps, Power Automate) のお試し環境を準備しよう(手順書)</a><BR>
 <a href="https://www.youtube.com/watch?v=B1ZH306oZHA&list=PL7N3d4aME9uzrktdMSHC8mI64blLFge6g">Power Platform試用環境の取得方法(動画)</a><BR>
 
-# アプリについて
-以下のリンクからソースをダウンロードし、フォルダ内の手順書に従ってインストール、ご利用をお願いします。
-また、アプリご利用の際には Premium (有償) ライセンスが必要となります。
-
-
-
 # 公開アプリ一覧
 <div style="text-align: center;">
 <table>
