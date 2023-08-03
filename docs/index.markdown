@@ -4,7 +4,7 @@
 
 ---
 <!-- 画像の表示サンプル -->
-
+<img src="PPLogo.png" alt="Power Platform Icon">
 ![Power Platform プレミアムサンプル集](Title.png) 
 
 Power Platform による、企業で有用なアプリのサンプルを無償提供しています。
