@@ -4,7 +4,8 @@
 
 ---
 <!-- 画像の表示サンプル -->
-<link rel="icon" href="PPLogo.ico" type="image/x-icon">
+<link rel="shortcut icon" href="PPLogo.ico">
+
 ![Power Platform プレミアムサンプル集](Title.png) 
 
 Power Platform による、企業で有用なアプリのサンプルを無償提供しています。
