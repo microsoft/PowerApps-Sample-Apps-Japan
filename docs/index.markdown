@@ -4,17 +4,24 @@
 
 ---
 <!-- 画像の表示サンプル -->
+<HEAD><link rel="shortcut icon" href="favicon.ico"></HEAD>
 
 ![Power Platform プレミアムサンプル集](Title.png) 
 
 Power Platform による、企業で有用なアプリのサンプルを無償提供しています。
 本アプリは、日本マイクロソフトの社員有志により作成・公開しています。
-こちらのアプリはPower Platform の Standalone (有償) 機能を利用しています。
+こちらのアプリはPower Platform の Premium (有償) 機能を利用しています。
 また、アプリは無償でダウンロードが可能です。
 
 # アプリについて
 以下のリンクからソースをダウンロードし、フォルダ内の手順書に従ってインストール、ご利用をお願いします。
-また、アプリご利用の際には Standalone (有償) ライセンスが必要となります。
+また、アプリご利用の際には Premium (有償) ライセンスが必要となります。
+
+# 評価環境について
+アプリサンプルをPower Platform の評価環境でお試しされたい場合、以下の手順書または動画をご参考に評価環境を作成してください。
+<BR>
+<a href="https://qiita.com/nayoshik/items/0890e1261b6b40b69c15">Power Platform (Power Apps, Power Automate) のお試し環境を準備しよう(手順書)</a><BR>
+<a href="https://www.youtube.com/watch?v=B1ZH306oZHA&list=PL7N3d4aME9uzrktdMSHC8mI64blLFge6g">Power Platform試用環境の取得方法(動画)</a><BR>
 
 # 公開アプリ一覧
 <div style="text-align: center;">
@@ -28,16 +35,18 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left;"><font size="5"><B>1.社内システムポータル</B></font>
+      <td style="text-align: left;"><font size="5"><B>001.社内システムポータル</B></font>
         <BR><img src="社内システムポータル.png" width="623" height="305" ><BR>
-        社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！<BR> </td>
+        社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！<pre> </pre> </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">アプリリンク</a></td>
     </tr>
     <tr>
-      <td style="text-align: left;">ChatGPT アプリ</td>
-      <td>準備中</td>
-      <td>－</td>
+      <td style="text-align: left;"><font size="5"><B>010.投票アプリ</B></font>
+        <BR><img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/eVotingSolution.png?raw=true" width="623" height="305" ><BR>
+        4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！<pre> </pre> </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;">タイムカード</td>
@@ -75,7 +84,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td>－</td>
     </tr>
     <tr>
-      <td style="text-align: left;">投票アプリ</td>
+      <td style="text-align: left;">ChatGPT アプリ</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
