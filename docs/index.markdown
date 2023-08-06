@@ -45,15 +45,15 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     <tr>
       <td style="text-align: left;"><font size="5"><B>010.投票アプリ</B></font>
         <BR>4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！<BR> 
-        <BR><img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/eVotingSolution.png?raw=true" width="623" height="305" ><BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/eVotingSolution.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>G01.KBアプリ ライト版</B></font>
-        <BR>ギークフジワラによる作成アプリ！<BR>日本マイクロソフトで実際に使われているナレッジアプリの公開版！<pre> </pre> 
-        <BR><img src="https://user-images.githubusercontent.com/96101315/258259835-d309749e-8f3f-43e8-8f8d-df49cf0f4f86.png" width="623" height="305" ><BR>
+        <BR>ギークフジワラによる作成アプリ！<BR>日本マイクロソフトで実際に使われているナレッジアプリの公開版！<BR>
+        <img src="https://user-images.githubusercontent.com/96101315/258259835-d309749e-8f3f-43e8-8f8d-df49cf0f4f86.png" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/geekfujiwara/KBAppLite/tree/main">アプリリンク</a></td>
