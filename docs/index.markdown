@@ -36,22 +36,25 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <tbody>
     <tr>
       <td style="text-align: left;"><font size="5"><B>001.社内システムポータル</B></font>
-        <BR><img src="社内システムポータル.png" width="623" height="305" ><BR>
-        社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！<pre></pre> </td>
+        社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！ <BR>
+        <img src="社内システムポータル.png" width="623" height="305" ><BR>
+      </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>010.投票アプリ</B></font>
+        4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！<BR> 
         <BR><img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/eVotingSolution.png?raw=true" width="623" height="305" ><BR>
-        4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！<BR> </td>
+      </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>G01.KBアプリ ライト版</B></font>
+        ギークフジワラによる作成アプリ！<BR>日本マイクロソフトで実際に使われているナレッジアプリの公開版！<pre> </pre> 
         <BR><img src="https://user-images.githubusercontent.com/96101315/258259835-d309749e-8f3f-43e8-8f8d-df49cf0f4f86.png" width="623" height="305" ><BR>
-        ギークフジワラによる作成アプリ！<BR>日本マイクロソフトで実際に使われているナレッジアプリの公開版！<pre> </pre> </td>
+      </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/geekfujiwara/KBAppLite/tree/main">アプリリンク</a></td>
     </tr>
