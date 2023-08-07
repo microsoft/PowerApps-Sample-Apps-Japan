@@ -1,10 +1,9 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Power Platform プレミアムサンプル集
+layout: default
 ---
-<!-- 画像の表示サンプル -->
-<HEAD><link rel="shortcut icon" href="favicon.ico"></HEAD>
 
 ![Power Platform プレミアムサンプル集](Title.png) 
 
