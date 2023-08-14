@@ -9,18 +9,18 @@ layout: default
 
 Power Platform による、企業で有用なアプリのサンプルを無償提供しています。
 本アプリは、日本マイクロソフトの社員有志により作成・公開しています。
-こちらのアプリはPower Platform の Premium (有償) 機能を利用しています。
+こちらのアプリは Power Platform の Premium 機能を利用しています。
 また、アプリは無償でダウンロードが可能です。
 
 # アプリについて
 以下のリンクからソースをダウンロードし、フォルダ内の手順書に従ってインストール、ご利用をお願いします。
-また、アプリご利用の際には Premium (有償) ライセンスが必要となります。
+また、アプリご利用の際には Premium ライセンスが必要となります。
 
 # 評価環境について
-アプリサンプルをPower Platform の評価環境でお試しされたい場合、以下の手順書または動画をご参考に評価環境を作成してください。
+アプリサンプルを Power Platform の評価環境でお試しされたい場合、以下の手順書または動画をご参考に評価環境を作成してください。
 <BR>
 <a href="https://qiita.com/nayoshik/items/0890e1261b6b40b69c15">Power Platform (Power Apps, Power Automate) のお試し環境を準備しよう(手順書)</a><BR>
-<a href="https://www.youtube.com/watch?v=B1ZH306oZHA&list=PL7N3d4aME9uzrktdMSHC8mI64blLFge6g">Power Platform試用環境の取得方法(動画)</a><BR>
+<a href="https://www.youtube.com/watch?v=B1ZH306oZHA&list=PL7N3d4aME9uzrktdMSHC8mI64blLFge6g">Power Platform 試用環境の取得方法(動画)</a><BR>
 
 # 公開アプリ一覧
 <div style="text-align: center;">
@@ -58,17 +58,23 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;"> <a href="https://github.com/geekfujiwara/KBAppLite/tree/main">アプリリンク</a></td>
     </tr>
     <tr>
-      <td style="text-align: left;">タイムカード</td>
-      <td>準備中</td>
-      <td>－</td>
+      <td style="text-align: left;"><font size="5"><B>002.タイムカード</B></font>
+        <BR>リモートワーク・外出先からも利用可能な勤怠登録アプリケーション！<BR>
+        <img src="https://raw.githubusercontent.com/microsoft/PowerApps-Sample-Apps-Japan/main/docs/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%89.png" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/002_TimeCard">アプリリンク</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><font size="5"><B>003.社内用語検索</B></font>
+        <BR>みんなで追加・登録ができる社内用語アプリ。検索も自在！<BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/%E7%A4%BE%E5%86%85%E7%94%A8%E8%AA%9E%E6%A4%9C%E7%B4%A2.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/003_Glossary">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;">Q&A アプリ</td>
-      <td>準備中</td>
-      <td>－</td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">社内用語集</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
