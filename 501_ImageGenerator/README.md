@@ -13,13 +13,12 @@
 ## 構成
 - README.md
 - DALLESample_1_0_0_0.zip：アンマネージドソリューション
-- DALLESample_1_0_0_0_managed.zip：マネージドソリューション
 - ソリューションインポート手順書.pdf：インストール手順書
 - AI画像生成アプリ_動作確認.pdf：動作確認手順書
 <br>
 
 ## 展開・利用に必要な条件
-- Power App 有償ライセンス（開発者・利用者）
+- Power App Premium ライセンス（開発者・利用者）
 - Azure Subscription ※2023年8月時点では、DALL・Eの利用申請が必要
 <br>
 
