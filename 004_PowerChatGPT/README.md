@@ -34,6 +34,10 @@
 - Office 365 ユーザー
 - HTTPコネクタ
 
+## Azure OpenAI Service 対象モデル
+- ChatCompletion API 対応モデル
+    - 例：gpt-4、gpt-35-turbo、他　※2023年8月現在
+
 ## インストールに必要な権限
 - システム管理者（セキュリティロール）
 
