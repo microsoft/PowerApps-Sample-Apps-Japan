@@ -10,8 +10,8 @@
 
 ## 構成
 - README.md
-- systemportal_1_0_0_0.zip：アンマネージドソリューション
-- systemportal_1_0_0_0_managed.zip：マネージドソリューション
+- PowerChatGPT_Sample_1_0_0_0.zip：アンマネージドソリューション
+- PowerChatGPT_Sample_1_0_0_0_managed.zip：マネージドソリューション
 - ソリューションインポート手順書.pdf：インストール手順書
 - 社内向けChatGPTアプリ_初期設定&動作確認.pdf：初期設定と動作確認手順書
 
