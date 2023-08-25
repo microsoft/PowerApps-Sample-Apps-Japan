@@ -1,19 +1,19 @@
-# 社内向けChatGPTアプリ
+# Power AI Chat アプリ
 
 ## アプリケーション概要
-社内向けChatGPTアプリは、Azure OpenAI Serviceを利用し、情報のプライバシーを担保した形で、企業や組織でChatGPTの機能を利用することができるアプリです。
+Power AI Chat アプリは、Azure OpenAI Serviceを利用し、情報のプライバシーを担保した形で、企業や組織で生成 AI を用いたチャット機能を利用することができるアプリです。
 
-AI とのチャット機能に加え、社内でのテンプレート機能や、お気に入りの機能、管理者向けの会話履歴の記録機能などが提供されており、必要に応じて追加のカスタマイズが可能です。
+社内でのテンプレート機能や、お気に入りの機能、管理者向けの会話履歴の記録機能などが提供されており、必要に応じて追加のカスタマイズが可能です。
 
 ## キャプチャ
-![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/PowerChatGPT.png?raw=true "キャプチャ")
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/PowerAIChat.png?raw=true "キャプチャ")
 
 ## 構成
 - README.md
-- PowerChatGPT_Sample_1_0_0_0.zip：アンマネージドソリューション
-- PowerChatGPT_Sample_1_0_0_0_managed.zip：マネージドソリューション
+- PowerAIChat_Sample_1_0_0_0.zip：アンマネージドソリューション
+- PowerAIChat_Sample_1_0_0_0_managed.zip：マネージドソリューション
 - ソリューションインポート手順書.pdf：インストール手順書
-- 社内向けChatGPTアプリ_初期設定&動作確認.pdf：初期設定と動作確認手順書
+- AIチャットアプリ Power AI Chat_初期設定&動作確認.pdf：初期設定と動作確認手順書
 
 ## 展開・利用に必要な条件
 - Power Apps Premium ライセンス（開発者・利用者）
@@ -23,7 +23,7 @@ AI とのチャット機能に加え、社内でのテンプレート機能や�
 - 日本語
 
 ## 主な機能
-- AIとの対話
+- AI Chat との対話
 - テンプレート
 - お気に入り
 - 個人設定
@@ -33,10 +33,6 @@ AI とのチャット機能に加え、社内でのテンプレート機能や�
 - Dataverse
 - Office 365 ユーザー
 - HTTPコネクタ
-
-## Azure OpenAI Service 対象モデル
-- ChatCompletion API 対応モデル
-    - 例：gpt-4、gpt-35-turbo、他　※2023年8月現在
 
 ## インストールに必要な権限
 - システム管理者（セキュリティロール）
@@ -49,7 +45,7 @@ AI とのチャット機能に加え、社内でのテンプレート機能や�
 <br>
 
 ## 初期設定方法
-- 社内向けChatGPTアプリ_初期設定&動作確認 を参照
+- AIチャットアプリ Power AI Chat_初期設定&動作確認.pdf を参照
 <br>
 
 ## マネージドソリューションとアンマネージドソリューション
