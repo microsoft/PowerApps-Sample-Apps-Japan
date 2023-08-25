@@ -23,7 +23,7 @@ Power AI Chat アプリは、Azure OpenAI Serviceを利用し、情報のプラ�
 - 日本語
 
 ## 主な機能
-- AI Chat との対話
+- AI との対話
 - テンプレート
 - お気に入り
 - 個人設定
