@@ -125,10 +125,10 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     <tr>
       <td style="text-align: left;"><font size="5"><B>501.AI画像生成アプリ</B></font>
         <BR>DALL・EをPower Appsで利用する際の実装サンプル。キーワードから画像を生成！ <BR>
-        <img src="社内システムポータル.png" width="623" height="305" ><BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/ImageGenerator.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/ImageGenerator.png?raw=true">アプリリンク</a></td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/501_ImageGenerator">アプリリンク</a></td>
     </tr>
   </tbody>
 </table>
