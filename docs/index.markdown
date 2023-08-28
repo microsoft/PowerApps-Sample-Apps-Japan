@@ -112,6 +112,18 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 </table>
 </div>
 
+# 実装サンプル
+<table>
+    <tr>
+      <td style="text-align: left;"><font size="5"><B>501.AI画像生成アプリ</B></font>
+        <BR>DALL・EをPower Appsで利用する際の実装サンプル。キーワードから画像を生成！ <BR>
+        <img src="社内システムポータル.png" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/ImageGenerator.png?raw=true">アプリリンク</a></td>
+    </tr>
+</table>
+
 
 # 免責事項
 本アプリ集は日本マイクロソフトが提供する無償のサンプル群です。本アプリ集をダウンロードされた方は、以下の免責事項を承諾したものとみなされます。
