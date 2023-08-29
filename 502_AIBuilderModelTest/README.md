@@ -1,4 +1,4 @@
-# AI画像生成アプリ（実装サンプル）
+# AI Builder モデル検証アプリ（実装サンプル）
 
 ## アプリケーション概要
 本アプリは、AI BUilderをPower Appsで利用する際の実装サンプルです。
@@ -7,14 +7,14 @@ AI Builderの事前構築済みモデル11種類を簡単に試していただ�
 <br>
 
 ## キャプチャ
-<img src="image.png" width=70%>
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/AIBuilderModelTest.png?raw=true "キャプチャ")
 <br>
 
 ## 構成
 - README.md
 - AIBuilderAllApp_1_0_0_0.zip：アンマネージドソリューション
-- AI Builderアプリ ソリューションインポート手順書.pdf：インストール手順書
-- ALL AI Builderアプリ_動作確認.pdf：動作確認手順書
+- AI Builder モデル検証アプリ ソリューションインポート手順書.pdf：インストール手順書
+- AI Builder モデル検証アプリ_動作確認.pdf：動作確認手順書
 - テスト用画像データ.zip
 <br>
 
@@ -98,9 +98,8 @@ https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-translation#supported
 <br>
 
 ## 動作確認方法
-- ALL AI Builderアプリ_動作確認.pdf を参照
-- 画像認識モデル（請求書処理・テキスト認識・領収書処理
-・IDリーダー・名刺リーダー）に関しては、テスト用として「テスト用画像データ.zip」 の画像もお使いください。
+- AI Builder モデル検証アプリ_動作確認.pdf を参照
+- 画像認識モデル（請求書処理・テキスト認識・領収書処理・IDリーダー・名刺リーダー）に関しては、テスト用として「テスト用画像データ.zip」 の画像もお使いください。
 <br>
 
 ## FAQ
