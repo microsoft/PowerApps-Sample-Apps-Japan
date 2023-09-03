@@ -75,7 +75,8 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>004.Power AI Chat アプリ</B></font>
-        <BR>Azure Open AI Service を利用したチャットボット。情報プライバシーを担保したGPTライクなアプリ！ヒントになるテンプレートも用意！ <BR>
+        <BR>Azure Open AI Service を利用したチャットボット。
+        <BR>情報プライバシーを担保したGPTライクなアプリ！ヒントになるテンプレートも用意！ <BR>
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/PowerAIChat.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
@@ -136,7 +137,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>502.AI Builder モデル検証アプリ</B></font>
-        <BR>AI BUilderをPower Appsで利用する際の実装サンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！ <BR>
+        <BR>AI BUilderをPower Appsで利用する際のサンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！ <BR>
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/AIBuilderModelTest.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
