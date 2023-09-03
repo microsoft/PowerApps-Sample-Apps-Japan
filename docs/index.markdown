@@ -74,6 +74,14 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/003_Glossary">アプリリンク</a></td>
     </tr>
     <tr>
+      <td style="text-align: left;"><font size="5"><B>004.Power AI Chat アプリ</B></font>
+        <BR>Azure Open AI Service を利用したチャットボット。情報プライバシーを担保したGPTライクなアプリ！ヒントになるテンプレートも用意！ <BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/PowerAIChat.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/004_PowerAIChat">アプリリンク</a></td>
+    </tr>
+    <tr>
       <td style="text-align: left;">Q&A アプリ</td>
       <td>準備中</td>
       <td>－</td>
@@ -99,11 +107,6 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td>－</td>
     </tr>
     <tr>
-      <td style="text-align: left;">ChatGPT アプリ</td>
-      <td>準備中</td>
-      <td>－</td>
-    </tr>
-    <tr>
       <td style="text-align: left;">書籍貸出</td>
       <td>準備中</td>
       <td>－</td>
@@ -111,6 +114,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   </tbody>
 </table>
 </div>
+
 
 # 実装サンプル
 <table>
@@ -130,7 +134,14 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/501_ImageGenerator">アプリリンク</a></td>
     </tr>
-  </tbody>
+    <tr>
+      <td style="text-align: left;"><font size="5"><B>502.AI Builder モデル検証アプリ</B></font>
+        <BR>AI BUilderをPower Appsで利用する際の実装サンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！ <BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/AIBuilderModelTest.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest">アプリリンク</a></td>
+    </tr>  </tbody>
 </table>
 
 
