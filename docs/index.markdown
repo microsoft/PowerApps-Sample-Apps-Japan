@@ -138,7 +138,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     <tr>
       <td style="text-align: left;"><font size="5"><B>502.AI Builder モデル検証アプリ</B></font>
         <BR>AI BUilderをPower Appsで利用する際のサンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/AIBuilderModelTest.png?raw=true" width="623" height="305" ><BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/AIBuilderModelTest.png?raw=true" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest">アプリリンク</a></td>
