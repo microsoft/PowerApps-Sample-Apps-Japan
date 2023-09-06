@@ -141,7 +141,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/AIBuilderModelTest.png?raw=true" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest" width="500" height="877" >アプリリンク</a></td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest" width="400" height="701" >アプリリンク</a></td>
     </tr>  </tbody>
 </table>
 
