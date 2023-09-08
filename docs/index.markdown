@@ -83,12 +83,15 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/004_PowerAIChat">アプリリンク</a></td>
     </tr>
     <tr>
-      <td style="text-align: left;">Q&A アプリ</td>
-      <td>準備中</td>
-      <td>－</td>
+      <td style="text-align: left;"><font size="5"><B>005.総務アプリパック</B></font>
+        <BR>総務部での利用を想定した6つのアプリパック。物品購入申請他、ニーズの高いアプリを同梱！
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/GeneralAffairsPack.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/005_GeneralAffairsPack">アプリリンク</a></td>
     </tr>
     <tr>
-      <td style="text-align: left;">総務アプリパック</td>
+      <td style="text-align: left;">Q&A アプリ</td>
       <td>準備中</td>
       <td>－</td>
     </tr>
