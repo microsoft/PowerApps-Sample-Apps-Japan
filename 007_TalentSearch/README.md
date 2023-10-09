@@ -7,7 +7,7 @@
 <br>
 
 ## キャプチャ
-![キャプチャ]( "キャプチャ")
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/TalentSearch.png?raw=true "キャプチャ")
 <br>
 
 ## 構成
@@ -50,7 +50,7 @@
 <br>
 
 ## 初期設定方法
-- 人材検索アプリ_初期設定&動作確認 を参照
+- 人材検索アプリ_初期設定&動作確認.pdf を参照
 <br>
 
 ## マネージドソリューションとアンマネージドソリューション
