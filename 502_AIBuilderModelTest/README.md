@@ -1,7 +1,7 @@
 # AI Builder モデル検証アプリ（実装サンプル）
 
 ## アプリケーション概要
-本アプリは、AI BUilderをPower Appsで利用する際の実装サンプルです。
+本アプリは、AI BuilderをPower Appsで利用する際の実装サンプルです。
 <br>
 AI Builderの事前構築済みモデル11種類を簡単に試していただくことができます。
 <br>
@@ -12,9 +12,10 @@ AI Builderの事前構築済みモデル11種類を簡単に試していただ�
 
 ## 構成
 - README.md
-- AIBuilderAllApp_1_0_0_0.zip：アンマネージドソリューション
-- AI Builder モデル検証アプリ ソリューションインポート手順書.pdf：インストール手順書
+- AIBuilderAllApp_1_0_0_1.zip：アンマネージドソリューション
+- AI Builder モデル検証アプリ_ソリューションインポート手順書.pdf：インストール手順書
 - AI Builder モデル検証アプリ_動作確認.pdf：動作確認手順書
+- AI Builder モデル検証アプリ_使用方法.pdf:アプリの操作方法
 - テスト用画像データ.zip
 <br>
 
@@ -37,32 +38,36 @@ AI Builderの事前構築済みモデル11種類を簡単に試していただ�
 - テキスト翻訳
 <br>
 
-## 対応言語
-- 日本語対応しているモデルは日本語でご用意しています。
+## 対応環境
+テキスト翻訳モデル以外は日本環境に対応しています。テキスト翻訳モデルを含めたすべてのモデルを使用したい場合はUS環境にインポートお願いいたします。
 
-モデルごとの対応言語は以下をご参照ください。
-- 請求書処理
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-invoice-processing#supported-languages-and-files
-- テキスト認識
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-recognition#supported-language-format-and-size
-- 領収書処理
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-receipt-processing#supported-languages-markets-and-files
-- IDリーダー
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-id-reader#supported-language-format-and-size
-- 名刺リーダー
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-business-card#supported-language-format-and-size
-- 感情分析
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-sentiment-analysis#supported-language-and-data-format
-- カテゴリ分類
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-category-classification#supported-data-format-and-languages
-- エンティティ抽出
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-entity-extraction#supported-data-format-and-languages
-- キーフレーズ抽出
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-key-phrase#supported-language-and-data-format
-- 言語検出
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-language-detection#supported-language-and-data-format
-- テキスト翻訳
-https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-translation#supported-language-and-data-format
+<br>
+
+## 対応言語
+- 日本語対応しているモデルは日本語で使用できるようご用意しています。
+- モデルごとの対応言語は以下をご参照ください。
+    - 請求書処理
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-invoice-processing#supported-languages-and-files
+    - テキスト認識
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-recognition#supported-language-format-and-size
+    - 領収書処理
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-receipt-processing#supported-languages-markets-and-files
+    - IDリーダー
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-id-reader#supported-language-format-and-size
+    - 名刺リーダー
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-business-card#supported-language-format-and-size
+    - 感情分析
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-sentiment-analysis#supported-language-and-data-format
+    - カテゴリ分類
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-category-classification#supported-data-format-and-languages
+    - エンティティ抽出
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-entity-extraction#supported-data-format-and-languages
+    - キーフレーズ抽出
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-key-phrase#supported-language-and-data-format
+    - 言語検出
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-language-detection#supported-language-and-data-format
+    - テキスト翻訳
+    https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-translation#supported-language-and-data-format
 <br>
 
 ## アプリ利用に必要なコネクタ
@@ -90,7 +95,7 @@ https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-translation#supported
 <br>
 
 ## インストール方法
-- ソリューションインポート手順書.pdf を参照
+- AI Builder モデル検証アプリ_ソリューションインポート手順書.pdf を参照
 <br>
 
 ## AI Builderキャパシティアドオン取得方法
@@ -100,6 +105,10 @@ https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-translation#supported
 ## 動作確認方法
 - AI Builder モデル検証アプリ_動作確認.pdf を参照
 - 画像認識モデル（請求書処理・テキスト認識・領収書処理・IDリーダー・名刺リーダー）に関しては、テスト用として「テスト用画像データ.zip」 の画像もお使いください。
+<br>
+
+## 操作方法
+- AI Builder モデル検証アプリ_使用方法.pdf を参照
 <br>
 
 ## FAQ
@@ -122,4 +131,4 @@ https://learn.microsoft.com/ja-jp/ai-builder/prebuilt-text-translation#supported
 
 5.　日本マイクロソフトは、本アプリ集に関するお問い合わせにはお答えできません。ご利用にあたっては、提供された手順書を参照し、ご自身でのインストールや利用を行ってください。
 
-2023年8月吉日
+2023年10月吉日
