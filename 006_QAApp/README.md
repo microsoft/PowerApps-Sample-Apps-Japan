@@ -6,7 +6,7 @@ Q&Aアプリは、社内のよくあるお問合せやナレッジを効率よ�
 Q&A検索用のキャンバスアプリとQ&Aの作成・管理を行うモデル駆動型アプリのセットで構成されています。
 
 ## キャプチャ
-![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/%E7%A4%BE%E5%86%85%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB.png?raw=true "キャプチャ")
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/QAApp.png?raw=true "キャプチャ")
 
 ## 構成
 - README.md
