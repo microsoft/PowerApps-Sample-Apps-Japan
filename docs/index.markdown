@@ -84,7 +84,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>005.総務アプリパック</B></font>
-        <BR>総務部での利用を想定した6つのアプリパック。物品購入申請他、ニーズの高いアプリを同梱！
+        <BR>総務部での利用を想定した6つのアプリパック。物品購入申請他、ニーズの高いアプリを同梱！ <BR>
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/GeneralAffairsPack.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
@@ -92,7 +92,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>006.Q&Aアプリ</B></font>
-        <BR>社内のお問合せやナレッジを効率よく管理。検索も簡単！
+        <BR>社内のお問合せやナレッジを効率よく管理。検索も簡単！ <BR>
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/QAApp.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
@@ -100,7 +100,8 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     </tr>
     <tr>
       <td style="text-align: left;"><font size="5"><B>007.人材検索アプリ</B></font>
-        <BR>従業員の役割や担当顧客を管理・検索。役割や業務をベースに適切な人を探し、効率的に関係者を巻き込んで業務を推進！
+        <BR>従業員の役割や担当顧客を管理・検索。
+        <BR>役割や業務をベースに適切な人を探し、効率的に関係者を巻き込んで業務を推進！ <BR>
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/TalentSearch.png?raw=true" width="623" height="305" ><BR>
       </td>
       <td style="text-align: center;">公開中</td>
