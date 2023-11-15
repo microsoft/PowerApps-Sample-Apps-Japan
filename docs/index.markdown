@@ -91,16 +91,21 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/005_GeneralAffairsPack">アプリリンク</a></td>
     </tr>
     <tr>
-      <td style="text-align: left;">Q&A アプリ</td>
-      <td>準備中</td>
-      <td>－</td>
+      <td style="text-align: left;"><font size="5"><B>006.Q&Aアプリ</B></font>
+        <BR>社内のお問合せやナレッジを効率よく管理。検索も簡単！
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/QAApp.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/006_QAApp">アプリリンク</a></td>
     </tr>
     <tr>
-     <td style="text-align: left;">人材検索</td>
-      <td>準備中</td>
-      <td>－</td>
-    </tr>
-    <tr>
+      <td style="text-align: left;"><font size="5"><B>007.人材検索アプリ</B></font>
+        <BR>従業員の役割や担当顧客を管理・検索。役割や業務をベースに適切な人を探し、効率的に関係者を巻き込んで業務を推進！
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/TalentSearch.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/007_TalentSearch">アプリリンク</a></td>
+    </tr>    <tr>
       <td style="text-align: left;">日報・週報アプリ with GPT</td>
       <td>準備中</td>
       <td>－</td>
