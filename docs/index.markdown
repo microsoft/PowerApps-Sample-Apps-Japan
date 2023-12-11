@@ -106,15 +106,33 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       </td>
       <td style="text-align: center;">公開中</td>
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/007_TalentSearch">アプリリンク</a></td>
-    </tr>    <tr>
-      <td style="text-align: left;">日報・週報アプリ with GPT</td>
-      <td>準備中</td>
-      <td>－</td>
     </tr>
     <tr>
-      <td style="text-align: left;">ヒヤリハットアプリ with GPT</td>
-      <td>準備中</td>
-      <td>－</td>
+      <td style="text-align: left;"><font size="5"><B>008.日報・週報アプリ</B></font>
+        <BR>AIサポートの日報・週報登録を行えるアプリ。
+        <BR>Azure Open AI Service での添削やアドバイス・週報のサマリー作成も！ <BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/Daily&WeeklyReport.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/008_Daily%26WeeklyReport">アプリリンク</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><font size="5"><B>009.Power AI Chat アプリ</B></font>
+        <BR>生成AIを活用したヒヤリハット報告アプリ！
+        <BR>過去に登録したヒヤリハットの情報を基にAIが回答を生成！<BR>
+        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/AIHiyarihatApp.png?raw=true" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/009_AIHiyarihatApp">アプリリンク</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left;"><font size="5"><B>G02.OCR2GPT</B></font>
+        <BR>AI Builderの OCR とGPT を組み合わせたドキュメントOCRソリューション！
+        <BR>プロンプト変更で任意のフォーマットに対応！<BR>
+        <img src="https://private-user-images.githubusercontent.com/96101315/288867439-a3e9d93f-9bd3-4146-a572-ab4fdd878a41.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMzM4NjksIm5iZiI6MTcwMjMzMzU2OSwicGF0aCI6Ii85NjEwMTMxNS8yODg4Njc0MzktYTNlOWQ5M2YtOWJkMy00MTQ2LWE1NzItYWI0ZmRkODc4YTQxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjExVDIyMjYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZmFkYzAxZWE0MGZjNTZjMmVkYjk0OTdlY2U1NWEzNmI0ZGVmNDZiMDlmMTE2ZjI2MzE4OTg0ZGUxNTYyZGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hg33-37kZbBbi2goESlud2X5NeMg0ALeMMIahTSl21o" width="623" height="305" ><BR>
+      </td>
+      <td style="text-align: center;">公開中</td>
+      <td style="text-align: center;"> <a href="https://github.com/geekfujiwara/OCR2GPT">アプリリンク</a></td>
     </tr>
     <tr>
       <td style="text-align: left;">書籍貸出</td>
