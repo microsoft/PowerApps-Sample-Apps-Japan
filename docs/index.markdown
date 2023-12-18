@@ -117,7 +117,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
       <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/008_Daily%26WeeklyReport">アプリリンク</a></td>
     </tr>
     <tr>
-      <td style="text-align: left;"><font size="5"><B>009.Power AI Chat アプリ</B></font>
+      <td style="text-align: left;"><font size="5"><B>009.ヒヤリハットアプリ</B></font>
         <BR>生成AIを活用したヒヤリハット報告アプリ！
         <BR>過去に登録したヒヤリハットの情報を基にAIが回答を生成！<BR>
         <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/AIHiyarihatApp.png?raw=true" width="623" height="305" ><BR>
