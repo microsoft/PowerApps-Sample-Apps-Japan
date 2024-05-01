@@ -5,7 +5,7 @@
 Excel や CSV の Q&A リストだけでなく、Word ファイルにも対応しています。
 
 ## キャプチャ
-![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/AIDocumentSearch.png?raw=true)
+![キャプチャ](https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/AI%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E6%A4%9C%E7%B4%A2%E3%82%A2%E3%83%97%E3%83%AA.png?raw=true)
 <br>
 
 ## 構成
