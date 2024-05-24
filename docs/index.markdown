@@ -187,4 +187,29 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 
 5.　日本マイクロソフトは、本アプリ集に関するお問い合わせにはお答えできません。ご利用にあたっては、提供された手順書を参照し、ご自身でのインストールや利用を行ってください。
 
+# パートナーによる導入支援サービス
+本アプリ集は上記免責事項のとおり完全無償となりますが、導入支援やカスタマイズを下記パートナー企業にて有償で承ります。導入支援サービスの内容や対象アプリはパートナー毎に異なりますので、直接お問い合わせをお願いいたします。
+
+導入支援対応パートナーとお問い合わせ先
+<table>
+    <thead>
+      <tr>
+        <th>パートナー名</th>
+        <th>連絡先</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><B>AKKODiSコンサルティング株式会社</B></td><td>ppjp@akkodis.co.jp</td>
+      <td><B>株式会社ASAHI Accounting Robot 研究所</B></td><td>info@asahi.gr.jp</td>
+      <td><B>コムチュア株式会社</B></td><td>clb_sales@comture.com</td>
+      <td><B>株式会社QUICK E-Solutions</B></td><td>qes_powerplatform@qes.co.jp</td>
+      <td><B>株式会社TAKMASPOWER</B></td><td>masumoritakashi@takmaspower.com</td>
+      <td><B>株式会社ディープコム</B></td><td>msdev_sales@deepcom.co.jp</td>
+      <td><B>株式会社ネオシステム</B></td><td>sales@neosystem.co.jp</td>
+      <td><B>株式会社ヘッドウォータース</B></td><td>info@ml.headwaters.co.jp</td>
+      <td><B>株式会社フロッグポッド</B></td><td>welcome.powerapps@frog-pod.com</td>
+    </tr>
+</table>
+
 2023年7月吉日
