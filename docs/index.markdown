@@ -192,24 +192,46 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 
 導入支援対応パートナーとお問い合わせ先
 <table>
-    <thead>
-      <tr>
-        <th>パートナー名</th>
-        <th>連絡先</th>
-      </tr>
-    </thead>
-    <tbody>
+  <thead>
     <tr>
-      <td><B>AKKODiSコンサルティング株式会社</B></td><td>ppjp@akkodis.co.jp</td>
-      <td><B>株式会社ASAHI Accounting Robot 研究所</B></td><td>info@asahi.gr.jp</td>
-      <td><B>コムチュア株式会社</B></td><td>clb_sales@comture.com</td>
-      <td><B>株式会社QUICK E-Solutions</B></td><td>qes_powerplatform@qes.co.jp</td>
-      <td><B>株式会社TAKMASPOWER</B></td><td>masumoritakashi@takmaspower.com</td>
-      <td><B>株式会社ディープコム</B></td><td>msdev_sales@deepcom.co.jp</td>
-      <td><B>株式会社ネオシステム</B></td><td>sales@neosystem.co.jp</td>
-      <td><B>株式会社ヘッドウォータース</B></td><td>info@ml.headwaters.co.jp</td>
-      <td><B>株式会社フロッグポッド</B></td><td>welcome.powerapps@frog-pod.com</td>
+      <th>パートナー名</th>
+      <th>連絡先</th>
+      <th>パートナー名</th>
+      <th>連絡先</th>
     </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>AKKODiSコンサルティング株式会社</b></td>
+      <td>ppjp@akkodis.co.jp</td>
+      <td><b>株式会社ASAHI Accounting Robot 研究所</b></td>
+      <td>info@asahi.gr.jp</td>
+    </tr>
+    <tr>
+      <td><b>コムチュア株式会社</b></td>
+      <td>clb_sales@comture.com</td>
+      <td><b>株式会社QUICK E-Solutions</b></td>
+      <td>qes_powerplatform@qes.co.jp</td>
+    </tr>
+    <tr>
+      <td><b>株式会社TAKMASPOWER</b></td>
+      <td>masumoritakashi@takmaspower.com</td>
+      <td><b>株式会社ディープコム</b></td>
+      <td>msdev_sales@deepcom.co.jp</td>
+    </tr>
+    <tr>
+      <td><b>株式会社ネオシステム</b></td>
+      <td>sales@neosystem.co.jp</td>
+      <td><b>株式会社ヘッドウォータース</b></td>
+      <td>info@ml.headwaters.co.jp</td>
+    </tr>
+    <tr>
+      <td><b>株式会社フロッグポッド</b></td>
+      <td>welcome.powerapps@frog-pod.com</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
 
 2023年7月吉日
