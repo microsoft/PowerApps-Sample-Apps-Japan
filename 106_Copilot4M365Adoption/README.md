@@ -25,6 +25,7 @@ CAP は2種類のPower Apps で作成されています。
 * キャンバスアプリ: 利用者
 
 アーキテクチャはこちらのようになっており、データは一つのDataverse で共有されています。
+[CopilotAdoptionPlatform_1_0_0_0_managed.zip](https://github.com/user-attachments/files/16435896/CopilotAdoptionPlatform_1_0_0_0_managed.zip)
 
 先にモデル駆動型アプリで設定をして、利用者の方々にご利用いただきます。
 
