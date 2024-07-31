@@ -33,8 +33,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 }
 .card {
   width: 300px;
-  margin-right: 12px;
-  margin-bottom: 12px;
+  margin: 0px 12px 12px 12px;
   padding: 12px 16px;
   border: 1px solid #dddddd;
   border-radius: 3px;
