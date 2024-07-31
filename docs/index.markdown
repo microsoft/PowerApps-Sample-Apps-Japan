@@ -57,13 +57,13 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 
 <div style="text-align: center;">
   <!-- 001 -->
-  <div class="card">
-    <div class="title">
+  <div style="display:inline-block;width:300px;border:1px solid #dddddd;border-radius:3px;padding:12px 16px;background-color:#ffffff;">
+    <div style="color:#333333;font-size:16px;font-weight:700;">
       <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">
         001.社内システムポータル
       </a></div>
-    <div class="description">社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！</div>
-    <img src="社内システムポータル.png">
+    <div style="font-size:12px;color:#666666;margin-bottom:6px;">社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！</div>
+    <img style="max-width:400px;max-height:300px;" src="社内システムポータル.png">
   </div>
 </div>
 
