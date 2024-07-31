@@ -28,6 +28,7 @@
 （4）サポートデスク、スクリーンショットからエラー修復
 
 <img width="897" alt="image" src="https://github.com/geekfujiwara/GPT-4oPowerApps/assets/96101315/bb18ae32-8c6e-4204-9867-8b6cd6ae38da">
+[GPT4o_1_0_0_0_managed.zip](https://github.com/user-attachments/files/16435894/GPT4o_1_0_0_0_managed.zip)
 
 （5）Webサイト作成
 
