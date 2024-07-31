@@ -53,6 +53,7 @@ flowchart TD
 
 
 ### 家系図提案
+[GeekOCR2GPT_1_0_0_3_managed.zip](https://github.com/user-attachments/files/16435897/GeekOCR2GPT_1_0_0_3_managed.zip)
 
 戸籍謄本から家系図の提案を行います。
 
