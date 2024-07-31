@@ -173,7 +173,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!--
   <div class="card">
     <div class="title">
-      <a href=""></a>
+      <a href="" target="_blank"></a>
     </div>
     <div class="description"> </div>
     <img width="300px" src=".png" />
