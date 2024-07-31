@@ -23,156 +23,164 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 <a href="https://www.youtube.com/watch?v=B1ZH306oZHA&list=PL7N3d4aME9uzrktdMSHC8mI64blLFge6g">Power Platform 試用環境の取得方法(動画)</a><BR>
 
 # 公開アプリ一覧
-<div style="text-align: center;">
-<table>
-  <thead>
-    <tr>
-      <th>アプリ名</th>
-      <th>ステータス</th>
-      <th>公開URL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>001.社内システムポータル</B></font>
-        <BR>社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！ <BR>
-        <img src="社内システムポータル.png" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>010.投票アプリ</B></font>
-        <BR>4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！<BR> 
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/eVotingSolution.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>G01.KBアプリ ライト版</B></font>
-        <BR>ギークフジワラによる作成アプリ！<BR>日本マイクロソフトで実際に使われているナレッジアプリの公開版！<BR>
-        <img src="https://user-images.githubusercontent.com/96101315/258259835-d309749e-8f3f-43e8-8f8d-df49cf0f4f86.png" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/geekfujiwara/KBAppLite/tree/main">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>002.タイムカード</B></font>
-        <BR>リモートワーク・外出先からも利用可能な勤怠登録アプリケーション！<BR>
-        <img src="https://raw.githubusercontent.com/microsoft/PowerApps-Sample-Apps-Japan/main/docs/%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%AB%E3%83%BC%E3%83%89.png" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/002_TimeCard">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>003.社内用語検索</B></font>
-        <BR>みんなで追加・登録ができる社内用語アプリ。検索も自在！<BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/%E7%A4%BE%E5%86%85%E7%94%A8%E8%AA%9E%E6%A4%9C%E7%B4%A2.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/003_Glossary">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>004.Power AI Chat アプリ</B></font>
-        <BR>Azure Open AI Service を利用したチャットボット。
-        <BR>情報プライバシーを担保したGPTライクなアプリ！ヒントになるテンプレートも用意！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/PowerAIChat.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/004_PowerAIChat">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>005.総務アプリパック</B></font>
-        <BR>総務部での利用を想定した6つのアプリパック。物品購入申請他、ニーズの高いアプリを同梱！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/GeneralAffairsPack.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/005_GeneralAffairsPack">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>006.Q&Aアプリ</B></font>
-        <BR>社内のお問合せやナレッジを効率よく管理。検索も簡単！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/QAApp.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/006_QAApp">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>007.人材検索アプリ</B></font>
-        <BR>従業員の役割や担当顧客を管理・検索。
-        <BR>役割や業務をベースに適切な人を探し、効率的に関係者を巻き込んで業務を推進！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/TalentSearch.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/007_TalentSearch">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>008.日報・週報アプリ</B></font>
-        <BR>AIサポートの日報・週報登録を行えるアプリ。
-        <BR>Azure Open AI Service での添削やアドバイス・週報のサマリー作成も！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/Daily&WeeklyReport.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/008_Daily%26WeeklyReport">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>009.ヒヤリハットアプリ</B></font>
-        <BR>生成AIを活用したヒヤリハット報告アプリ！
-        <BR>過去に登録したヒヤリハットの情報を基にAIが回答を生成！<BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/blob/main/docs/AIHiyarihatApp.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/009_AIHiyarihatApp">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;">書籍貸出</td>
-      <td>準備中</td>
-      <td>－</td>
-    </tr>
-  </tbody>
-</table>
+
+<style>
+.card-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+.card {
+  width: 300px;
+  margin-right: 3px;
+  margin-bottom: 3px;
+  padding: 12px 16px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  background-color: #ffffff;
+  text-align: center;
+  vertical-align: top;
+  align-self: stretch;
+}
+.title {
+  font-size: 16px;
+}
+.description {
+  font-size: 12px;
+  color: #666666;
+}
+.card img {
+  max-width: 300px;
+}
+</style>
+
+<div class="card-container">
+  <!-- 001 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">001.社内システムポータル</a>
+    </div>
+    <div class="description">社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！</div>
+    <img width="300px" src="社内システムポータル.png" />
+  </div>
+  <!-- 002 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/002_TimeCard">002.タイムカード</a>
+    </div>
+    <div class="description">リモートワーク・外出先からも利用可能な勤怠登録アプリケーション！</div>
+    <img width="300px" src="タイムカード.png" />
+  </div>
+  <!-- 003 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/003_Glossary">003.社内用語検索</a>
+    </div>
+    <div class="description">みんなで追加・登録ができる社内用語アプリ。検索も自在！</div>
+    <img width="300px" src="社内用語検索.png" />
+  </div>
+  <!-- 004 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/004_PowerAIChat">004.Power AI Chat アプリ</a>
+    </div>
+    <div class="description">Azure Open AI Service を利用したチャットボット。情報プライバシーを担保したGPTライクなアプリ！ヒントになるテンプレートも用意！ </div>
+    <img width="300px" src="PowerAIChat.png" />
+  </div>
+  <!-- 005 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/005_GeneralAffairsPack">005.総務アプリパック</a>
+    </div>
+    <div class="description">総務部での利用を想定した6つのアプリパック。物品購入申請他、ニーズの高いアプリを同梱！ </div>
+    <img width="300px" src="GeneralAffairsPack.png" />
+  </div>
+  <!-- 006 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/006_QAApp">006.Q&Aアプリ</a>
+    </div>
+    <div class="description">社内のお問合せやナレッジを効率よく管理。検索も簡単！ </div>
+    <img width="300px" src="QAApp.png" />
+  </div>
+  <!-- 007 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/007_TalentSearch">007.人材検索アプリ</a>
+    </div>
+    <div class="description">従業員の役割や担当顧客を管理・検索。役割や業務をベースに適切な人を探し、効率的に関係者を巻き込んで業務を推進！</div>
+    <img width="300px" src="TalentSearch.png" />
+  </div>
+  <!-- 008 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/008_Daily%26WeeklyReport">008.日報・週報アプリ</a>
+    </div>
+    <div class="description">AIサポートの日報・週報登録を行えるアプリ。Azure Open AI Service での添削やアドバイス・週報のサマリー作成も！</div>
+    <img width="300px" src="Daily%26WeeklyReport.png" />
+  </div>
+  <!-- 009 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/009_AIHiyarihatApp">009.ヒヤリハットアプリ</a>
+    </div>
+    <div class="description">生成AIを活用したヒヤリハット報告アプリ！過去に登録したヒヤリハットの情報を基にAIが回答を生成！</div>
+    <img width="300px" src="AIHiyarihatApp.png" />
+  </div>
+  <!-- 010 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp">010.投票アプリ</a>
+    </div>
+    <div class="description">4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！</div>
+    <img width="300px" src="eVotingSolution.png" />
+  </div>
+  <!-- 501 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/501_ImageGenerator">501.AI画像生成アプリ</a>
+    </div>
+    <div class="description">DALL・EをPower Appsで利用する際の実装サンプル。キーワードから画像を生成！</div>
+    <img width="300px" src="ImageGenerator.png" />
+  </div>
+  <!-- 502 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest">502.AI Builder モデル検証アプリ</a>
+    </div>
+    <div class="description">AI BUilderをPower Appsで利用する際のサンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！</div>
+    <img width="300px" src="AIBuilderModelTest.png" />
+  </div>
+  <!-- G01 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/geekfujiwara/KBAppLite/tree/main">G01.KBアプリ ライト版</a>
+    </div>
+    <div class="description">ギークフジワラによる作成アプリ！日本マイクロソフトで実際に使われているナレッジアプリの公開版！</div>
+    <img width="300px" src="https://user-images.githubusercontent.com/96101315/258259835-d309749e-8f3f-43e8-8f8d-df49cf0f4f86.png" />
+  </div>
+  <!-- 00 -->
+  <div class="card">
+    <div class="title">
+      <a href="https://github.com/geekfujiwara/OCR2GPT">G02.OCR2GPT</a>
+    </div>
+    <div class="description">AI Builderの OCR とGPT を組み合わせたドキュメントOCRソリューション！プロンプト変更で任意のフォーマットに対応！</div>
+    <img width="300px" src="" />
+  </div>
+  <!-- Template -->
+  <!--
+  <div class="card">
+    <div class="title">
+      <a href=""></a>
+    </div>
+    <div class="description"> </div>
+    <img width="300px" src=".png" />
+  </div>
+  -->
 </div>
 
-
-# 実装サンプル
-<table>
-    <thead>
-    <tr>
-      <th>アプリ名</th>
-      <th>ステータス</th>
-      <th>公開URL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>501.AI画像生成アプリ</B></font>
-        <BR>DALL・EをPower Appsで利用する際の実装サンプル。キーワードから画像を生成！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/ImageGenerator.png?raw=true" width="623" height="305" ><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/501_ImageGenerator">アプリリンク</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>502.AI Builder モデル検証アプリ</B></font>
-        <BR>AI BUilderをPower Appsで利用する際のサンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！ <BR>
-        <img src="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/raw/main/docs/AIBuilderModelTest.png?raw=true" width="400" height="701"><BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest">アプリリンク</a></td>
-    </tr>  </tbody>
-    <tr>
-      <td style="text-align: left;"><font size="5"><B>G02.OCR2GPT</B></font>
-        <BR>AI Builderの OCR とGPT を組み合わせたドキュメントOCRソリューション！
-        <BR>プロンプト変更で任意のフォーマットに対応！<BR>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/EKUhiW4wwmM?si=3pfzijtKg0RO5d8N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <BR>
-      </td>
-      <td style="text-align: center;">公開中</td>
-      <td style="text-align: center;"> <a href="https://github.com/geekfujiwara/OCR2GPT">アプリリンク</a></td>
-    </tr>
-</table>
-
+<br>
 
 # 免責事項
 本アプリ集は日本マイクロソフトが提供する無償のサンプル群です。本アプリ集をダウンロードされた方は、以下の免責事項を承諾したものとみなされます。
@@ -196,40 +204,44 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
     <tr>
       <th>パートナー名</th>
       <th>連絡先</th>
-      <th>パートナー名</th>
-      <th>連絡先</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>AKKODiSコンサルティング株式会社</b></td>
       <td>ppjp@akkodis.co.jp</td>
+    </tr>
+    <tr>
       <td><b>株式会社ASAHI Accounting Robot 研究所</b></td>
       <td>info@asahi.gr.jp</td>
     </tr>
     <tr>
       <td><b>コムチュア株式会社</b></td>
       <td>clb_sales@comture.com</td>
+    </tr>
+    <tr>
       <td><b>株式会社QUICK E-Solutions</b></td>
       <td>qes_powerplatform@qes.co.jp</td>
     </tr>
     <tr>
       <td><b>株式会社TAKMASPOWER</b></td>
       <td>masumoritakashi@takmaspower.com</td>
+    </tr>
+    <tr>
       <td><b>株式会社ディープコム</b></td>
       <td>msdev_sales@deepcom.co.jp</td>
     </tr>
     <tr>
       <td><b>株式会社ネオシステム</b></td>
       <td>sales@neosystem.co.jp</td>
+    </tr>
+    <tr>
       <td><b>株式会社ヘッドウォータース</b></td>
       <td>info@ml.headwaters.co.jp</td>
     </tr>
     <tr>
       <td><b>株式会社フロッグポッド</b></td>
       <td>welcome.powerapps@frog-pod.com</td>
-      <td></td>
-      <td></td>
     </tr>
   </tbody>
 </table>
