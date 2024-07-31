@@ -60,7 +60,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 001 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal">001.社内システムポータル</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/001_SystemPortal" target="_blank">001.社内システムポータル</a>
     </div>
     <div class="description">社内システムやアプリ、URLを自在に設定、いいね！で人気リンクが分かる！</div>
     <img width="300px" src="社内システムポータル.png" />
@@ -68,7 +68,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 002 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/002_TimeCard">002.タイムカード</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/002_TimeCard" target="_blank">002.タイムカード</a>
     </div>
     <div class="description">リモートワーク・外出先からも利用可能な勤怠登録アプリケーション！</div>
     <img width="300px" src="タイムカード.png" />
@@ -76,7 +76,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 003 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/003_Glossary">003.社内用語検索</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/003_Glossary" target="_blank">003.社内用語検索</a>
     </div>
     <div class="description">みんなで追加・登録ができる社内用語アプリ。検索も自在！</div>
     <img width="300px" src="社内用語検索.png" />
@@ -84,7 +84,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 004 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/004_PowerAIChat">004.Power AI Chat アプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/004_PowerAIChat" target="_blank">004.Power AI Chat アプリ</a>
     </div>
     <div class="description">Azure Open AI Service を利用したチャットボット。情報プライバシーを担保したGPTライクなアプリ！ヒントになるテンプレートも用意！ </div>
     <img width="300px" src="PowerAIChat.png" />
@@ -92,7 +92,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 005 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/005_GeneralAffairsPack">005.総務アプリパック</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/005_GeneralAffairsPack" target="_blank">005.総務アプリパック</a>
     </div>
     <div class="description">総務部での利用を想定した6つのアプリパック。物品購入申請他、ニーズの高いアプリを同梱！ </div>
     <img width="300px" src="GeneralAffairsPack.png" />
@@ -100,7 +100,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 006 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/006_QAApp">006.Q&Aアプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/006_QAApp" target="_blank">006.Q&Aアプリ</a>
     </div>
     <div class="description">社内のお問合せやナレッジを効率よく管理。検索も簡単！ </div>
     <img width="300px" src="QAApp.png" />
@@ -108,7 +108,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 007 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/007_TalentSearch">007.人材検索アプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/007_TalentSearch" target="_blank">007.人材検索アプリ</a>
     </div>
     <div class="description">従業員の役割や担当顧客を管理・検索。役割や業務をベースに適切な人を探し、効率的に関係者を巻き込んで業務を推進！</div>
     <img width="300px" src="TalentSearch.png" />
@@ -116,7 +116,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 008 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/008_Daily%26WeeklyReport">008.日報・週報アプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/008_Daily%26WeeklyReport" target="_blank">008.日報・週報アプリ</a>
     </div>
     <div class="description">AIサポートの日報・週報登録を行えるアプリ。Azure Open AI Service での添削やアドバイス・週報のサマリー作成も！</div>
     <img width="300px" src="Daily%26WeeklyReport.png" />
@@ -124,7 +124,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 009 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/009_AIHiyarihatApp">009.ヒヤリハットアプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/009_AIHiyarihatApp" target="_blank">009.ヒヤリハットアプリ</a>
     </div>
     <div class="description">生成AIを活用したヒヤリハット報告アプリ！過去に登録したヒヤリハットの情報を基にAIが回答を生成！</div>
     <img width="300px" src="AIHiyarihatApp.png" />
@@ -132,7 +132,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 010 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp">010.投票アプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/010_eVotingApp" target="_blank">010.投票アプリ</a>
     </div>
     <div class="description">4グループのハッカソン投票を想定したアプリ。ハッカソンを盛り上げよう！</div>
     <img width="300px" src="eVotingSolution.png" />
@@ -140,7 +140,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 501 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/501_ImageGenerator">501.AI画像生成アプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/501_ImageGenerator" target="_blank">501.AI画像生成アプリ</a>
     </div>
     <div class="description">DALL・EをPower Appsで利用する際の実装サンプル。キーワードから画像を生成！</div>
     <img width="300px" src="ImageGenerator.png" />
@@ -148,7 +148,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 502 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest">502.AI Builder モデル検証アプリ</a>
+      <a href="https://github.com/microsoft/PowerApps-Sample-Apps-Japan/tree/main/502_AIBuilderModelTest" target="_blank">502.AI Builder モデル検証アプリ</a>
     </div>
     <div class="description">AI BUilderをPower Appsで利用する際のサンプル。AI Builderの事前構築済みモデル11種類を簡単にお試し！</div>
     <img width="300px" src="AIBuilderModelTest.png" />
@@ -156,7 +156,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- G01 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/geekfujiwara/KBAppLite/tree/main">G01.KBアプリ ライト版</a>
+      <a href="https://github.com/geekfujiwara/KBAppLite/tree/main" target="_blank">G01.KBアプリ ライト版</a>
     </div>
     <div class="description">ギークフジワラによる作成アプリ！日本マイクロソフトで実際に使われているナレッジアプリの公開版！</div>
     <img width="300px" src="https://user-images.githubusercontent.com/96101315/258259835-d309749e-8f3f-43e8-8f8d-df49cf0f4f86.png" />
@@ -164,7 +164,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!-- 00 -->
   <div class="card">
     <div class="title">
-      <a href="https://github.com/geekfujiwara/OCR2GPT">G02.OCR2GPT</a>
+      <a href="https://github.com/geekfujiwara/OCR2GPT" target="_blank">G02.OCR2GPT</a>
     </div>
     <div class="description">AI Builderの OCR とGPT を組み合わせたドキュメントOCRソリューション！プロンプト変更で任意のフォーマットに対応！</div>
     <img width="300px" src="" />
@@ -173,7 +173,7 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
   <!--
   <div class="card">
     <div class="title">
-      <a href=""></a>
+      <a href="" target="_blank"></a>
     </div>
     <div class="description"> </div>
     <img width="300px" src=".png" />
