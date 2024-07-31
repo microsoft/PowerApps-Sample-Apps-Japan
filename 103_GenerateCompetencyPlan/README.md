@@ -27,6 +27,7 @@ https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/
 
 ![image](https://github.com/geekfujiwara/GenerateCompetencyPlanPowerApps/assets/96101315/c8ec3866-26e7-428a-a3c5-05e3cc315dfa)
 
+[TrainingPlan_1_0_0_0_managed.zip](https://github.com/user-attachments/files/16435899/TrainingPlan_1_0_0_0_managed.zip)
 
 ### AI Builder 
 
