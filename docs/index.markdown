@@ -24,37 +24,6 @@ Power Platform による、企業で有用なアプリのサンプルを無償�
 
 # 公開アプリ一覧
 
-<style>
-  .card {
-    display: inline-block;
-    width: 300px;
-    border: 1px solid #dddddd;
-    border-radius: 3px;
-    padding: 12px 16px;
-    background-color: #ffffff;
-  }
-  .title {
-    color: #333333;
-    font-size: 16px;
-    font-weight: 700;
-  }
-  .description {
-    font-size: 12px;
-    color: #666666;
-    margin-bottom: 6px;
-  }
-  .td-app-name {
-    text-align: left;
-  }
-  .td-app-name img {
-    max-width: 400px;
-    max-height: 300px;
-  }
-  .td-link {
-    text-align: center;
-  }
-</style>
-
 <div style="text-align: center;">
   <!-- 001 -->
   <div style="display:inline-block;width:300px;border:1px solid #dddddd;border-radius:3px;padding:12px 16px;background-color:#ffffff;">
